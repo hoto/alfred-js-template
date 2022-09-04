@@ -25,7 +25,8 @@ Create symlink for rapid workflow development:
 
 Publish: 
 
-    git commit
+    git commit -am "Commit message"
+    npm version patch
     npm publish --access public
 
 
