@@ -1,6 +1,6 @@
 {
-  "name": "alfred-js-template",
-  "version": "1.0.1",
+  "name": "@hoto/alfred-js-template",
+  "version": "1.0.0",
   "description": "Alfred workflow JS template",
   "engines": {
     "node": ">=16.0.0"
