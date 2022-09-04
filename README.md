@@ -15,13 +15,13 @@ A template repository for an Alfred workflow using JavaScript.
 
 ### Install
 
-    npm install --global @hoto/alfred-js-template
+    npm install --location=global @hoto/alfred-js-template
 
 ### Develop
 
 Create symlink for rapid workflow development:
 
-    npm install --global
+    npm install --location=global
 
 Publish: 
 
