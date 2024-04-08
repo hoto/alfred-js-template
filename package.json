@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/hoto/alfred-js-template#readme",
   "dependencies": {
-    "alfy": "1.0.0"
+    "alfy": "2.0.0"
   },
   "devDependencies": {
     "prettier": "2.7.1"
