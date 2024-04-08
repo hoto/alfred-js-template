@@ -1,12 +1,14 @@
 /**
- * https://github.com/sindresorhus/alfy
+ * Docs: https://github.com/sindresorhus/alfy
  */
-import alfy from 'alfy';
+import alfy from 'alfy'
 
-const items = [{
-    title: 'Some title',
-    subtitle: 'Some subtitle',
-    arg: 'Some arg'
-}]
+const items = [
+  {
+    title: `Title: ${alfy.input}`,
+    subtitle: `Subtitle: ${alfy.input}`,
+    arg: `Copied to clipboard: ${alfy.input}`,
+  },
+]
 
-alfy.output(items);
+alfy.output(items)
